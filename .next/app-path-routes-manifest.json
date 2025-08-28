@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/[locale]/page": "/[locale]",
+  "/[locale]/privacy/page": "/[locale]/privacy",
+  "/[locale]/contact/page": "/[locale]/contact",
+  "/[locale]/services/page": "/[locale]/services",
+  "/[locale]/about/page": "/[locale]/about"
+}

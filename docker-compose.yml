@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  partyvelope-web:
+    build:
+      context: ./build
+      dockerfile: ../Dockerfile.production
+    container_name: partyvelope-web
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+    networks:
+      - partybox-network
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+networks:
+  partybox-network:
+    external: true
+    name: api_partybox-network

@@ -1,0 +1,150 @@
+{
+  "master": {
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Set up Next.js project foundation",
+        "description": "Initialize Next.js 14+ project with TypeScript, Tailwind CSS, and proper folder structure using App Router",
+        "status": "done",
+        "priority": "high",
+        "dependencies": [],
+        "details": "Create a new Next.js project with TypeScript support, Tailwind CSS for styling, and App Router. Set up ESLint, Prettier, and basic project configuration files.",
+        "testStrategy": "Verify project runs successfully with npm run dev, build completes without errors",
+        "subtasks": []
+      },
+      {
+        "id": 2,
+        "title": "Create responsive navigation component",
+        "description": "Build a responsive navigation header with mobile menu functionality",
+        "status": "done",
+        "priority": "high",
+        "dependencies": [
+          "1"
+        ],
+        "details": "Create a navigation component with logo, menu items (Home, About, Services, Contact), and hamburger menu for mobile devices. Include smooth transitions and accessibility features.",
+        "testStrategy": "Test navigation on different screen sizes, verify all links work, check keyboard navigation",
+        "subtasks": []
+      },
+      {
+        "id": 3,
+        "title": "Develop homepage with hero section",
+        "description": "Create the main landing page with hero section, features, and call-to-action elements",
+        "status": "done",
+        "priority": "high",
+        "dependencies": [
+          "1",
+          "2"
+        ],
+        "details": "Build homepage with hero section containing company tagline and CTA buttons, featured services showcase, company statistics, customer testimonials section, and newsletter subscription form.",
+        "testStrategy": "Verify all sections render correctly, test CTA buttons, validate newsletter form",
+        "subtasks": []
+      },
+      {
+        "id": 4,
+        "title": "Build About Us page",
+        "description": "Create company information page with team section and company values",
+        "status": "done",
+        "priority": "medium",
+        "dependencies": [
+          "1",
+          "2"
+        ],
+        "details": "Develop About Us page with company history, mission statement, team members section with photos and bios, company values and culture section, awards and certifications display.",
+        "testStrategy": "Check content display, verify image loading, test responsive layout",
+        "subtasks": []
+      },
+      {
+        "id": 5,
+        "title": "Create Services/Products page",
+        "description": "Build comprehensive services and products showcase page with filtering",
+        "status": "done",
+        "priority": "medium",
+        "dependencies": [
+          "1",
+          "2"
+        ],
+        "details": "Create services page with categorized service listings, product catalog with filtering options, pricing information where applicable, request quote functionality, and featured case studies.",
+        "testStrategy": "Test filtering functionality, verify product display, validate quote request form",
+        "subtasks": []
+      },
+      {
+        "id": 6,
+        "title": "Implement Contact page with form",
+        "description": "Build contact page with validated form and map integration",
+        "status": "done",
+        "priority": "medium",
+        "dependencies": [
+          "1",
+          "2"
+        ],
+        "details": "Create contact page with validated contact form, office locations with map integration, business hours display, contact information (phone, email), social media links, and FAQ section.",
+        "testStrategy": "Test form validation and submission, verify map display, check all contact links",
+        "subtasks": []
+      },
+      {
+        "id": 7,
+        "title": "Create footer component",
+        "description": "Build comprehensive footer with links, social media, and company information",
+        "status": "done",
+        "priority": "medium",
+        "dependencies": [
+          "1"
+        ],
+        "details": "Develop footer component with quick navigation links, social media icons, contact information, copyright notice, and newsletter subscription option.",
+        "testStrategy": "Verify all links work correctly, test responsive layout, check social media links",
+        "subtasks": []
+      },
+      {
+        "id": 8,
+        "title": "Implement SEO and metadata",
+        "description": "Add SEO optimization with proper metadata, structured data, and sitemap",
+        "status": "done",
+        "priority": "high",
+        "dependencies": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "details": "Implement SEO best practices including metadata for all pages, Open Graph tags, structured data markup, XML sitemap, robots.txt, and canonical URLs.",
+        "testStrategy": "Run SEO audit tools, verify metadata in browser, test Open Graph preview",
+        "subtasks": []
+      },
+      {
+        "id": 9,
+        "title": "Add performance optimizations",
+        "description": "Optimize website performance for Core Web Vitals and fast loading",
+        "status": "done",
+        "priority": "high",
+        "dependencies": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "details": "Implement performance optimizations including image optimization and lazy loading, code splitting, font optimization, caching strategies, and bundle size reduction.",
+        "testStrategy": "Run Lighthouse audit, measure Core Web Vitals, test page load times",
+        "subtasks": []
+      },
+      {
+        "id": 10,
+        "title": "Deploy to Vercel",
+        "description": "Set up deployment pipeline and deploy website to Vercel",
+        "status": "pending",
+        "priority": "high",
+        "dependencies": [
+          "8",
+          "9"
+        ],
+        "details": "Configure Vercel deployment with environment variables, custom domain setup, SSL certificate, security headers, and CI/CD pipeline integration.",
+        "testStrategy": "Verify deployment success, test production site functionality, check SSL and security",
+        "subtasks": []
+      }
+    ],
+    "metadata": {
+      "created": "2025-08-24T03:39:51.030Z",
+      "updated": "2025-08-24T04:28:37.853Z",
+      "description": "Tasks for master context"
+    }
+  }
+}

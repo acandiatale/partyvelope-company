@@ -1,0 +1,11 @@
+# Task ID: 4
+# Title: Build About Us page
+# Status: pending
+# Dependencies: 1, 2
+# Priority: medium
+# Description: Create company information page with team section and company values
+# Details:
+Develop About Us page with company history, mission statement, team members section with photos and bios, company values and culture section, awards and certifications display.
+
+# Test Strategy:
+Check content display, verify image loading, test responsive layout

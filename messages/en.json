@@ -1,0 +1,331 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Make Every Event",
+    "titleHighlight": "Unforgettable",
+    "subtitle": "From intimate gatherings to grand celebrations, PartyBox Company provides everything you need to create magical moments that last a lifetime.",
+    "cta": {
+      "services": "Explore Services",
+      "quote": "Get a Quote"
+    },
+    "stats": {
+      "events": "Events Hosted",
+      "clients": "Happy Clients",
+      "team": "Team Members",
+      "experience": "Years Experience"
+    }
+  },
+  "services": {
+    "title": "Our Featured Services",
+    "subtitle": "We offer comprehensive event solutions tailored to your needs",
+    "corporate": {
+      "title": "Corporate Events",
+      "description": "Professional event planning for conferences, seminars, and team building activities.",
+      "features": ["Venue Selection", "Catering Services", "AV Equipment", "Event Coordination"]
+    },
+    "wedding": {
+      "title": "Wedding Celebrations",
+      "description": "Complete wedding solutions from decorations to entertainment.",
+      "features": ["Floral Arrangements", "Photography", "Music & DJ", "Venue Decoration"]
+    },
+    "birthday": {
+      "title": "Birthday Parties",
+      "description": "Fun and memorable birthday celebrations for all ages.",
+      "features": ["Theme Decorations", "Entertainment", "Party Supplies", "Custom Cakes"]
+    },
+    "special": {
+      "title": "Special Occasions",
+      "description": "Anniversaries, graduations, and all your special moments.",
+      "features": ["Custom Planning", "Decoration Setup", "Photography", "Guest Management"]
+    }
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Don't just take our word for it - hear from our satisfied customers"
+  },
+  "newsletter": {
+    "title": "Stay Updated with Our Latest Events",
+    "subtitle": "Subscribe to our newsletter and get exclusive offers, event tips, and party planning guides",
+    "placeholder": "Enter your email address",
+    "button": "Subscribe",
+    "subscribing": "Subscribing...",
+    "success": "Thank you for subscribing! Check your email for confirmation.",
+    "error": "Something went wrong. Please try again later.",
+    "privacy": "We respect your privacy. Unsubscribe at any time."
+  },
+  "about": {
+    "title": "About PartyBox Company",
+    "subtitle": "For over a decade, we've been transforming ordinary gatherings into extraordinary experiences",
+    "mission": {
+      "title": "Our Mission",
+      "content1": "At PartyBox Company, our mission is to create unforgettable moments that bring people together.",
+      "content2": "We believe every celebration deserves to be extraordinary, regardless of size or budget.",
+      "content3": "Since our founding in 2014, we've dedicated ourselves to providing comprehensive event solutions that combine creativity, professionalism, and attention to detail."
+    },
+    "journey": {
+      "title": "Our Journey",
+      "2014": "PartyBox Company founded",
+      "2016": "Expanded to corporate events",
+      "2018": "Opened second location",
+      "2020": "Launched virtual event services",
+      "2022": "Celebrated 500+ successful events",
+      "2024": "10 years of making memories"
+    },
+    "values": {
+      "title": "Our Core Values",
+      "excellence": {
+        "title": "Excellence",
+        "description": "We strive for perfection in every detail of your event"
+      },
+      "creativity": {
+        "title": "Creativity",
+        "description": "Innovation and imagination drive our unique event solutions"
+      },
+      "reliability": {
+        "title": "Reliability",
+        "description": "You can count on us to deliver on our promises, every time"
+      },
+      "passion": {
+        "title": "Passion",
+        "description": "We love what we do, and it shows in every event we create"
+      }
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "subtitle": "Our talented team of event professionals is dedicated to making your vision a reality"
+    },
+    "awards": {
+      "title": "Recognition & Awards",
+      "award1": {
+        "title": "Best Event Company 2023",
+        "issuer": "City Business Awards"
+      },
+      "award2": {
+        "title": "Excellence in Service",
+        "issuer": "Event Industry Association"
+      },
+      "award3": {
+        "title": "Customer Choice Award",
+        "issuer": "2022 & 2023 Winner"
+      }
+    },
+    "cta": {
+      "title": "Ready to Create Something Amazing?",
+      "subtitle": "Let's work together to make your next event unforgettable",
+      "button": "Get in Touch"
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Let's start planning your perfect event. Reach out to us and we'll make it happen!",
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Your Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "eventType": "Event Type",
+      "eventTypeOptions": {
+        "select": "Select an event type",
+        "corporate": "Corporate Event",
+        "wedding": "Wedding",
+        "birthday": "Birthday Party",
+        "anniversary": "Anniversary",
+        "other": "Other"
+      },
+      "eventDate": "Event Date",
+      "budget": "Estimated Budget",
+      "budgetOptions": {
+        "select": "Select budget range",
+        "under100": "Under $1,000",
+        "100to500": "$1,000 - $5,000",
+        "500to1000": "$5,000 - $10,000",
+        "1000to2500": "$10,000 - $25,000",
+        "over2500": "Over $25,000"
+      },
+      "message": "Tell Us About Your Event",
+      "messagePlaceholder": "Please share details about your event, special requirements, or any questions you have...",
+      "submit": "Send Message",
+      "required": "Required"
+    },
+    "info": {
+      "title": "Contact Information",
+      "office": "Our Office",
+      "address": "123 Party Street\nEvent City, EC 12345\nUnited States",
+      "phone": "Phone",
+      "phoneMain": "Main",
+      "phoneFree": "Toll-Free",
+      "email": "Email",
+      "emailGeneral": "General",
+      "emailSupport": "Support",
+      "emailSales": "Sales",
+      "hours": "Business Hours",
+      "weekdays": "Monday - Friday: 9:00 AM - 6:00 PM",
+      "saturday": "Saturday: 10:00 AM - 4:00 PM",
+      "sunday": "Sunday: By Appointment Only"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": {
+        "question": "How far in advance should I book your services?",
+        "answer": "We recommend booking at least 2-3 months in advance for large events like weddings and corporate conferences. For smaller parties, 3-4 weeks notice is usually sufficient."
+      },
+      "q2": {
+        "question": "Do you provide services outside the city?",
+        "answer": "Yes! We provide services throughout the region and can also arrange destination events. Additional travel fees may apply for locations outside our standard service area."
+      },
+      "q3": {
+        "question": "Can you work within my budget?",
+        "answer": "Absolutely! We offer flexible packages and can customize our services to fit various budgets. During our initial consultation, we'll discuss your budget and create a plan that works for you."
+      },
+      "q4": {
+        "question": "What's included in your event packages?",
+        "answer": "Our packages vary depending on the type of event and your specific needs. Generally, they include planning, coordination, vendor management, and day-of support. We can customize any package to include additional services."
+      },
+      "q5": {
+        "question": "Do you handle last-minute events?",
+        "answer": "While we prefer advance notice, we understand that sometimes events come up quickly. Contact us to discuss your needs, and we'll do our best to accommodate rush requests."
+      },
+      "q6": {
+        "question": "What happens if I need to cancel or postpone?",
+        "answer": "We understand that plans can change. Our cancellation policy varies depending on the type of event and how far in advance you cancel. We'll discuss all terms during the booking process."
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Planning?",
+      "subtitle": "Don't wait to make your event extraordinary. Contact us today and let's bring your vision to life!",
+      "callNow": "Call Us Now",
+      "sendMessage": "Send Message"
+    }
+  },
+  "footer": {
+    "company": "Company",
+    "aboutUs": "About Us",
+    "team": "Our Team",
+    "careers": "Careers",
+    "press": "Press",
+    "services": "Services",
+    "corporate": "Corporate Events",
+    "weddings": "Weddings",
+    "birthdays": "Birthday Parties",
+    "special": "Special Occasions",
+    "support": "Support",
+    "contact": "Contact Us",
+    "faq": "FAQ",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "connect": "Connect",
+    "newsletter": "Newsletter",
+    "blog": "Blog",
+    "gallery": "Events Gallery",
+    "testimonials": "Testimonials",
+    "tagline": "Making every celebration unforgettable",
+    "since": "since 2014",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "copyright": "© {year} PartyBox Company. All rights reserved."
+  },
+  "servicesPage": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive event solutions tailored to create unforgettable experiences",
+    "categories": {
+      "corporate": {
+        "title": "Corporate Events",
+        "description": "Professional event solutions for businesses",
+        "items": {
+          "conference": {
+            "name": "Conferences & Seminars",
+            "description": "Full-scale conference planning with AV equipment, catering, and logistics",
+            "price": "From $5,000",
+            "features": ["Venue Selection", "Technical Setup", "Catering Services", "Guest Management"]
+          },
+          "teamBuilding": {
+            "name": "Team Building Events",
+            "description": "Engaging activities to strengthen team bonds and boost morale",
+            "price": "From $2,000",
+            "features": ["Activity Planning", "Venue Arrangement", "Refreshments", "Professional Facilitators"]
+          },
+          "productLaunch": {
+            "name": "Product Launches",
+            "description": "Memorable launch events that create buzz for your products",
+            "price": "From $8,000",
+            "features": ["Event Design", "Media Coverage", "Guest Experience", "Brand Activation"]
+          },
+          "gala": {
+            "name": "Corporate Galas",
+            "description": "Elegant evening events for awards, fundraisers, and celebrations",
+            "price": "From $10,000",
+            "features": ["Theme Development", "Entertainment", "Fine Dining", "Award Ceremonies"]
+          }
+        }
+      },
+      "wedding": {
+        "title": "Wedding Celebrations",
+        "description": "Making your special day absolutely perfect",
+        "items": {
+          "fullPlanning": {
+            "name": "Full Wedding Planning",
+            "description": "Complete wedding coordination from engagement to honeymoon",
+            "price": "From $15,000",
+            "features": ["Venue Selection", "Vendor Management", "Day-of Coordination", "Design & Decor"]
+          },
+          "partialPlanning": {
+            "name": "Partial Planning",
+            "description": "Professional assistance with specific aspects of your wedding",
+            "price": "From $5,000",
+            "features": ["Vendor Recommendations", "Timeline Creation", "Budget Management", "Consultation"]
+          },
+          "dayCoordination": {
+            "name": "Day-of Coordination",
+            "description": "Ensure your wedding day runs smoothly with our coordinators",
+            "price": "From $2,000",
+            "features": ["Vendor Coordination", "Timeline Management", "Problem Solving", "Guest Assistance"]
+          },
+          "firstBirthday": {
+            "name": "First Birthday",
+            "description": "Special celebration for baby's first birthday",
+            "price": "From $3,000",
+            "features": ["Theme Decoration", "Traditional Ceremony", "Photography", "Catering"]
+          }
+        }
+      }
+    },
+    "additional": {
+      "title": "Additional Services",
+      "entertainment": {
+        "title": "Entertainment",
+        "description": "DJs, live bands, performers, and entertainers for any event"
+      },
+      "photography": {
+        "title": "Photography & Video",
+        "description": "Professional photographers and videographers to capture memories"
+      },
+      "catering": {
+        "title": "Catering Services",
+        "description": "Full-service catering with customizable menus for any taste"
+      },
+      "design": {
+        "title": "Design & Decor",
+        "description": "Custom themes, floral arrangements, and venue transformation"
+      },
+      "transportation": {
+        "title": "Transportation",
+        "description": "Guest transportation and logistics coordination"
+      },
+      "rentals": {
+        "title": "Party Rentals",
+        "description": "Tables, chairs, tents, and all event equipment rentals"
+      }
+    },
+    "cta": {
+      "title": "Ready to Plan Your Event?",
+      "subtitle": "Get a custom quote for your specific needs and let's create something amazing together",
+      "button": "Get Your Custom Quote"
+    }
+  }
+}

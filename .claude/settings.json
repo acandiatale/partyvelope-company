@@ -1,0 +1,19 @@
+{
+  "allowedTools": [
+    "Write",
+    "Edit",
+    "MultiEdit",
+    "Bash(npx create-next-app*)",
+    "Bash(npm *)",
+    "Bash(task-master *)",
+    "Bash(git *)",
+    "Bash(mkdir *)",
+    "Bash(touch *)",
+    "Bash(echo *)",
+    "Bash(cat *)",
+    "Read",
+    "LS",
+    "Glob",
+    "Grep"
+  ]
+}

@@ -1,0 +1,11 @@
+# Task ID: 9
+# Title: Add performance optimizations
+# Status: pending
+# Dependencies: 3, 4, 5, 6
+# Priority: high
+# Description: Optimize website performance for Core Web Vitals and fast loading
+# Details:
+Implement performance optimizations including image optimization and lazy loading, code splitting, font optimization, caching strategies, and bundle size reduction.
+
+# Test Strategy:
+Run Lighthouse audit, measure Core Web Vitals, test page load times

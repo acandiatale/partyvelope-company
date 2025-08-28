@@ -1,0 +1,11 @@
+# Task ID: 1
+# Title: Set up Next.js project foundation
+# Status: pending
+# Dependencies: None
+# Priority: high
+# Description: Initialize Next.js 14+ project with TypeScript, Tailwind CSS, and proper folder structure using App Router
+# Details:
+Create a new Next.js project with TypeScript support, Tailwind CSS for styling, and App Router. Set up ESLint, Prettier, and basic project configuration files.
+
+# Test Strategy:
+Verify project runs successfully with npm run dev, build completes without errors
