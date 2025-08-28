@@ -6,6 +6,9 @@ yarn-debug.log*
 yarn-error.log*
 dev-debug.log
 
+build/
+
+
 # Dependency directories
 node_modules/
 
